@@ -1,3 +1,3 @@
 # This is the website for the project
 
-Read the [README](REAMDE.md) for info.
+Read the [README](README.md) for info.
